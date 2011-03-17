@@ -1,0 +1,48 @@
+---
+title_page: Cryptography
+title: Cryptography
+in_menu: false
+---
+## Cryptography
+<hr />
+<br />
+
+### Instructor(s)
+
+[Bruno Martin](http://deptinfo.unice.fr/~bmartin/index.en.html)
+
+### Description
+
+* 2 ECTS
+
+*Objectives*
+
+This lecture is an introduction to cryptography and network security in which the main two aspects of the field are presented: the attacker part and the defender part. We next introduce the two paradigms of cryptography (secret keys and public keys) and their use for designing network security protocols.
+
+*Programme*
+
+1. Introduction to security and threats
+2. A taxonomy of malwares
+3. How hackers do it
+4. Secret key cryptography
+5. Public key cryptography
+6. Application to network security"
+
+### Prerequisites
+
+* Undergraduate level in mathematics (algebra, number theory)
+* Undergraduate level in operating systems and networking
+
+### Others
+
+* Number of lectures (in hrs): 12
+* Number of Exercise Classes (in hrs): 4.5
+* Number of Lab Classes (in hrs): 4.5
+
+### Bibliography
+
+ * B. Martin, Codage, cryptologie et applications, PPUR, 2004
+ * A. Noordergraaf, How hackers do it, Sun Blueprints, 2002
+ * D. Salomon, Foundations of Computer Security, Springer, 2006
+ * W. Stallings, Cryptography and network security, Prentice Hall, 2006
+ * FreeBSD Handbook, chapter 14, Security, available online"

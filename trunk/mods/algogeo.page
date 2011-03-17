@@ -1,0 +1,29 @@
+---
+title_page: Geometrical Algorithms
+title: Geometrical Algorithms
+in_menu: false
+---
+## Geometrical Algorithms
+<hr />
+<br />
+
+### Instructor(s)
+
+[Olivier DEVILLERS](http://www.inria.fr/sophia/members/Olivier.Devillers/)
+
+### Description
+
+* 2 ECTS
+
+This course provide an introduction to computational geometry problems: convex hull, Delaunay triangulation and Voronoi diagram and arrangements. Main techniques are illustrated on these problems.
+
+The proposed algorithms are analysed from a classical theoretical point of view and also form a more practical one in relation with actual implementation.
+
+### Prerequisites
+
+Background in  analysis of algorithms (sorting algorithms, O(n log n) analysis of merge sort, Omega(n log n) lower bound for sorting; binary search trees).
+
+### Others
+
+* Number of lectures (in hrs): 9
+* Number of Exercise Classes (in hrs): 12
