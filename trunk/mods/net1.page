@@ -1,0 +1,18 @@
+---
+title_page: Networking
+title: Networking
+in_menu: false
+---
+## Networking 1
+<hr />
+<br />
+
+### Instructor(s)
+
+[Lucile Sassatelli](http://www.i3s.unice.fr/~sassatelli/)
+
+### Description
+
+* 2 ECTS
+
+This course offers an overview of the Open System Interconnection (OSI) model, from the Application Layer to the Data Link Layer. Some protocols at each layer are reviewed (e.g. DHCP, DNS, TCP, UDP, etc.) in order to understand how hosts communicate in a network.

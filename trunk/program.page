@@ -1,0 +1,65 @@
+---
+title_page: Program
+title: Program
+in_menu: true
+sort_info: 20
+---
+# Program
+For students who want to acquire furthermore competences in Innovation and Entrepreneurship (in particular to get a recognition by the EIT ICT labs), it will be required that they follow *Innovation & Entrepreneurship Basics 2* and that they participate at the *BD (Business Development) Labs* (9ECTS). In BD labs, students are working in group (mixed with students of Business schools) and should prepare a business for creating an enterprise.
+
+Note that some optional modules might not open or might open in French
+
+## Semester 1, October-February *(30 ECTS)*
+
+### Core modules
+
+#### 24 ECTS
+
+| [Models of Persistent Objects](mods/objperst.html)|4 ECTS|
+| [Concurrency and Parallelism](mods/concpar.html)|4 ECTS|
+| [Software Engineering](mods/softeng.html)| 4 ECTS|
+| [Networking](mods/net1.html)| 2 ECTS|
+| [Computability and Logic](mods/complogic.html)| 6 ECTS|
+| [Innovation & Entrepreneurship (basics 1)](mods/innov.html)<span style="padding-right:15px" />| 2 ECTS|
+| [Language](mods/lang1.html)| 2 ECTS|
+
+### Optional modules
+
+#### 6 ECTS to be chosen among
+
+| [Advanced Operating Systems](mods/advos.html) |2 ECTS|
+| [C++](mods/cplusplus.html) |2 ECTS|
+| [Introduction to Research 1](mods/introres1.html) |2 ECTS |
+| [Probability and Statistics](mods/prob.html) |2 ECTS |
+| [Innovation & Entrepreneurship  (basics 2)](mods/innov2.html)<span style="padding-right:15px" /> |4 ECTS|
+<br />
+
+## Semester 2, March-August *(30 ECTS)*
+
+### Core modules
+
+#### 22 ECTS
+
+| [Distributed Programming](mods/distprog.html) | 4 ECTS|
+| [XML and Web](mods/xmlweb.html) | 3 ECTS |
+| [Complexity](mods/complexity.html) | 2 ECTS |
+| <span style="padding-right:75px">[Temporal and Functional Analysis](mods/tempana.html) </span>| 3 ECTS |
+| [Verification and Computer Proof](mods/compproof.html) | 2 ECTS |
+| [Scientific English](mods/english2.html) | 2 ECTS |
+| [Personal Project (or BD Labs *)](mods/perproj.html) | 6 ECTS |
+
+### Optional modules *(only some modules will be opened)*
+
+#### 8 ECTS to be chosen among
+
+| [Introduction to Research 2 (winter school)](mods/winsc1.html) | 2 ECTS|
+| [Cryptography](mods/crypto.html) | 2 ECTS|
+| [Protocols](mods/prots.html) | 2 ECTS|
+| [Algorithmic Geometry](mods/algogeo.html) | 2 ECTS|
+| [Signal Processing](mods/signalpro.html) | 2 ECTS|
+| [Problem Solving](mods/probsolv.html) | 2 ECTS |
+| [Combinatorial Optimization](mods/combopt.html) | 2 ECTS|
+| [Internet and Networks](mods/intnet.html) | 2 ECTS|
+| [Image Synthesis](mods/imasyn.html) | 2 ECTS |
+| [Business Development Labs (complement *)](mods/business2.html) | 3 ECTS |
+
