@@ -5,9 +5,9 @@ in_menu: true
 sort_info: 20
 ---
 # Program
-For students who want to acquire furthermore competences in Innovation and Entrepreneurship (in particular to get a recognition by the EIT ICT labs), it will be required that they follow *Innovation & Entrepreneurship Basics 2* and that they participate at the *BD (Business Development) Labs* (9ECTS). In BD labs, students are working in group (mixed with students of Business schools) and should prepare a business for creating an enterprise.
+For students who want to acquire furthermore competences in Innovation and Entrepreneurship (in particular to get a recognition by the EIT ICT labs), it will be required that they follow *Innovation & Entrepreneurship Basics 2* and that they participate at the *BD (Business Development) Labs* (9ECTS). In BD labs, students are working in group (mixed with students of Business schools) and should prepare a business plan for creating an enterprise.
 
-Note that some optional modules might not open or might open in French
+Note that some optional modules might not open or might be given in French only.
 
 ## Semester 1, October-February *(30 ECTS)*
 
@@ -55,7 +55,7 @@ Note that some optional modules might not open or might open in French
 | [Introduction to Research 2 (winter school)](mods/winsc1.html) | 2 ECTS|
 | [Cryptography](mods/crypto.html) | 2 ECTS|
 | [Protocols](mods/prots.html) | 2 ECTS|
-| [Algorithmic Geometry](mods/algogeo.html) | 2 ECTS|
+| [Geometrics Algorithms](mods/algogeo.html) | 2 ECTS|
 | [Signal Processing](mods/signalpro.html) | 2 ECTS|
 | [Problem Solving](mods/probsolv.html) | 2 ECTS |
 | [Combinatorial Optimization](mods/combopt.html) | 2 ECTS|
