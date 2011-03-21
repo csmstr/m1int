@@ -21,7 +21,7 @@ The proposed algorithms are analysed from a classical theoretical point of view 
 
 ### Prerequisites
 
-Background in  analysis of algorithms (sorting algorithms, O(n log n) analysis of merge sort, Omega(n log n) lower bound for sorting; binary search trees).
+Background in  analysis of algorithms (sorting algorithms, O(n log n) analysis of merge sort, Omega(n log n) lower bound for sorting; binary search trees.
 
 ### Others
 
