@@ -57,17 +57,17 @@
            and language links -->
 
       <div id="extras">
-        <h2>Information:</h2>
-        <p>Application forms are now available<p>
+<!--        <h2>Information:</h2>
+        <p>Application forms are now available<p>  -->
         <h2>Downloads:</h2>
 		<p>Brochure<br/>
 		Flyer<br/>
 		Poster<br/>
-		Application Form<br/>
-		Referee Form</p>
-        <ul>
+		<a href="docs/appl_form_m1int.pdf">Application Form</a><br/>
+		<a href="docs/referee_form_m1int.pdf">Referee Form</a></p>
+<!--        <ul>
           <li><a href="http://www.unice.fr">Important links</a></li>
-        </ul>
+        </ul>   -->
       </div>
 
       <div id="content">

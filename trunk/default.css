@@ -85,6 +85,7 @@ margin:0 0 1.5em 0;line-height:1.3em;padding:0;
 
 #extras a {
 font-weight:bold;
+color:#004069;
 }
 
 #extras li {
@@ -159,6 +160,9 @@ margin:0 0 0 0;padding:0px 0px 0 15px;font-size:1em;
 background:#ffffff;
 }
 
+.review {
+	font-style: italic;color: #616D7E;
+}
 /***** Footer *****/
 
 #footer {
