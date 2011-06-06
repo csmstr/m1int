@@ -272,11 +272,11 @@ margin:10px 0 5px 10px;float:right;
 }
 
 .announce {
-margin:10px 0 10px 0;padding:10px 10px 5px 10px;width:105px;color:#505050;background:#f4f4f4 url(images/menubg.gif) bottom left repeat-x;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;line-height:1.3em;
+margin:10px 0 10px 0;padding:10px 10px 5px 10px;width:105px;color:#505050;background:#f4f4f4;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;line-height:1.3em;
 }
 
 .announce a {
-font-weight:bold;
+font-weight:bold;background:#505050;
 }
 
 .announce p {
