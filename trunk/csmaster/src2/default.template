@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="{lang:}">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Your description goes here" />
+    <meta name="keywords" content="your,keywords,goes,here" />
+    <meta name="author" content="Your Name / Original design: Andreas Viklund - http://andreasviklund.com/" />
+    <meta name="generator" content="webgen - http://webgen.rubyforge.org" />
+    <link rel="stylesheet" type="text/css" href="{relocatable: default.css}" media="screen,projection" />
+    <title>{title_page:}</title>
+  </head>
+
+  <body>
+
+    <div id="wrap">
+      <div id="header">
+		<table style="width: 820px;" border="0" cellpadding="0" cellspacing="0">
+		<tr height="5">
+			<td colspan="3"><img src="http://www.i3s.unice.fr/I3S/images/page_n/bande_autres.jpg" alt="" height="5" width="820"></td>
+		</tr>
+		<tr>
+			<td>
+				<h1 align="center">Master 1 International in Computer Science</h1>
+			</td>
+			<td height="72" rowspan="2"><a href="http://www.unice.fr/"><img style="padding-right:5px;" align="right" src="http://www.i3s.unice.fr/I3S/images/page_n/unice.gif" alt="" height="72"></a>
+			</td>
+		</tr>
+		<tr height="30">
+			<td>
+				<p align="center"><strong>University of Nice - Sophia Antipolis</strong><p>
+			</td>
+		</tr>
+		<tr height="5">
+			<td colspan="3"><img src="http://www.i3s.unice.fr/I3S/images/page_n/bande_autres.jpg" alt="" height="5" width="820"></td>
+		</tr>
+		</table>
+		<!---
+        <h1><a href="{relocatable: /index.html}">M1 International</a></h1>
+        <p><strong>University of Nice - Sophia Antipolis</strong></p>
+		--->
+      </div>
+
+      <div id="avmenu">
+        <h2 class="hide">Site menu:</h2>
+        {menu: {used_nodes: files}}
+
+        <div class="announce">
+          <h2>Latest news:</h2>
+          <p><strong>01.04.2011:</strong><br />
+          Application site for the Master 1 program in Computer Science is now open</p>
+          <p class="textright"><a href="toapply.html">Read more &raquo;</a></p>
+        </div>
+      </div>
+
+      <!-- The following div was not in the original template but was inserted to display the breadcrumb trail
+           and language links -->
+
+      <div id="extras">
+        <h2>Information:</h2>
+        <p>Application forms are now available<p>
+        <h2>Downloads:</h2>
+		<p>Brochure<br/>
+		Flyer<br/>
+		Poster<br/>
+		Application Form<br/>
+		Referee Form</p>
+        <ul>
+          <li><a href="http://www.unice.fr">Important links</a></li>
+        </ul>
+      </div>
+
+      <div id="content">
+        <webgen:block name="content" />
+      </div>
+
+      <div id="footer">
+        <p>University of Nice</p>
+      </div>
+    </div>
+  </body>
+</html>
