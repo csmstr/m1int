@@ -1,0 +1,39 @@
+---
+title_page: Computer Assisted Proofs
+title: Computer Assisted Proofs
+in_menu: false
+---
+## Computer Assisted Proofs
+<hr />
+<br />
+
+### Instructor(s)
+
+[Yves Bertot](http://www.inria.fr/sophia/members/Yves.Bertot/)
+
+### Description
+
+* 2 ECTS
+
+In this course we show how algorithms and proofs can be described using the Coq system. Lectures are organized as follows:
+
+   1. Basic programming using lists and natural numbers
+   2. Basic reasoning on logical connectives
+   3. Reasoning on functions and algorithms
+   4. Arbitrary data-types: a general approach to induction
+   5. Advanced techniques for proofs by induction
+
+Each lecture will come with a lab session and an assignment to be done at home.
+
+At the end of the course, students are expected to be able to describe a general purpose recursive algorithm for basic needs in computer science (sorting data, storing and searching, efficient arithmetic computation, parsing, compiling).
+
+### Prerequisites
+
+Students should have a basic knowledge in programming in a conventional programming language, especially with a good understanding of recursivity.   Knowledge of functional programming is a plus, but not required.
+
+Students should also master logic at a basic level.
+
+### Others
+
+* Number of lectures (in hrs): 9
+* Number of Lab Classes (in hrs): 12

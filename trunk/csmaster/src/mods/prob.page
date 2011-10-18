@@ -1,0 +1,36 @@
+---
+title_page: Probability and Statistics
+title: Probability and Statistics
+in_menu: false
+---
+## Probability and Statistics
+<hr />
+<br />
+
+### Instructor(s)
+
+[Andrew Comport](http://www.i3s.unice.fr/~comport/)<br />
+[Guillaume Urvoy-Keller](http://www.i3s.unice.fr/~urvoy/)
+
+### Description
+
+* 2 ECTS
+
+This course aims at introducing the basics of probability and statistical theory with illustrations in the fields of scientific analysis, computer system performance evaluation and image processing.
+
+The first part of the course will be devoted to introducing/refreshing the notions of probability and probability distributions, random variables, random processes and limit theorems. Basic notions of statistics will also be covered including data-set analysis, comparison and determining which distribution fits a specific sample. Furthermore, the theory of estimation and hypothesis testing will be introduced and will be studied via an applicative example from image processing.
+
+In the last part of the course, the design of experimental simulations and statistical quality control will be studied. Overall, the course will be taught with a balance between theoretical fundamentals and applicative illustration and will contain several exercise sessions and labs.
+
+### Others
+
+* Number of lectures (in hrs): 12
+* Number of Exercise Classes (in hrs): 3
+* Number of Lab Classes (in hrs): 6
+
+### Bibliography
+
+* R. WalPole, R. Meyers, S. Meyers. Probability and Statistics for Engineers and Scientists 9th Edition - 2011
+* S. Ross - First Course in probability (8th edition) - Prentice Hall - 2009
+* A. and W. Martinez - Computational Statistics with Matlab - Chapman and Hall - 2007
+

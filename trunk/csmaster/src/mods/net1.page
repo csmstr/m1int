@@ -1,0 +1,36 @@
+---
+title_page: Networking
+title: Networking
+in_menu: false
+---
+## Networking
+<hr />
+<br />
+
+### Instructor(s)
+
+[Guillaume Urvoy-Keller](http://www.i3s.unice.fr/~urvoy/)
+
+### Description
+
+* 2 ECTS
+
+This course provides a broad overview of computer networking, from the  application to the link layer, in a top down approach manner.  It covers basic concepts in computer networking as well as the prominent Internet protocols.
+
+This course will be illustrated with exercises and labs that will help the students to understand (i)  how some key Internet applications/services are working and (ii) the basics of client/server communication programming. Advanced concepts, e.g., IPv6, will be introduced at the end of the course.
+
+### Prerequisites
+
+Basics of programming.
+
+### Others
+
+* Number of lectures (in hrs): 12
+* Number of Exercise Classes (in hrs): 3
+* Number of Labs Classes (in hrs): 6
+
+### Bibliography
+
+* Computer Networking: A Top-Down Approach. James F. Kurose, Keith W. Ross, Pearson Education, 2009
+* CNP3 : https://scm.info.ucl.ac.be/trac/cnp3
+* http://www.tcpipguide.com/

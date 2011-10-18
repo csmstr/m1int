@@ -1,0 +1,31 @@
+---
+title_page: Signal Processing
+title: Signal Processing
+in_menu: false
+---
+## Signal Processing
+<hr />
+<br />
+
+### Instructor(s)
+
+[Luc Deneire](http://www.i3s.unice.fr/~deneire/)
+
+### Description
+
+* 2 ECTS
+
+The main objective of the Signal Processing course is to introduce basic concepts signal processing (Fourier, z-transform) and their applications in networks.  As such, the course also introduce the fundamentals of digital communications and give a quick overview of the main physical layers of wireless systems.
+
+Matlab and/or Scilab will be used as a working tool to acquire the fundamental notions.
+
+Assessment will be done partly by a final exam and partly by a project (homework) in matlab.
+
+### Prerequisites
+
+Basic mathematics should suffice  (including complex number theory, fundamentals of probability, ...)
+
+### Others
+
+* Number of lectures (in hrs): 10.5
+* Number of Exercise Classes (in hrs): 10.5
