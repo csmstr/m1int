@@ -1,0 +1,37 @@
+---
+title_page: Advanced Operating Systems
+title: Advanced Operating Systems
+in_menu: false
+---
+## Advanced Operating Systems
+<hr />
+<br />
+
+### Instructor(s)
+
+[Sid Touati](http://www-sop.inria.fr/members/Sid.Touati/)
+
+### Description
+
+* 2 ECTS
+
+*Objectives*
+
+This course is devoted to master students willing to understand the
+kernel of an operating system. While this course is not devoted to a
+special operating system, we however provide some technical examples
+with linux and windows.
+The course describes some advanced topics on operating systems:  threads
+and process, scheduling, file systems and virtual memory.
+Laboratory classes are organised under linux environment.
+
+### Prerequisites
+
+* Knowledge of an operating system (programming, shell)
+
+### Others
+
+
+* Number of lectures (in hrs): 12
+* Number of Exercise Classes (in hrs): 4.5
+* Number of Lab Classes (in hrs): 4.5
