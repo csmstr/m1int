@@ -1,0 +1,50 @@
+---
+title_page: Combinatorial Optimization
+title: Combinatorial Optimization
+in_menu: false
+---
+## Combinatorial Optimization
+<hr />
+<br />
+
+### Instructor(s)
+
+[Frederic Havet](http://www-sop.inria.fr/members/Frederic.Havet/)
+
+### Description
+
+* 2 ECTS
+
+*Objectives*
+
+
+
+This course is an introduction to combinatorial optimization.  It
+covers the basic concepts in graph theory and the related fundamental
+algorithms:
+
+*    searches in graphs and digraphs: breadth-first search, depth-first search, applications, ...
+*    algorithms in edge-weighted graphs: shortest path, minimum-weight spanning tree,...
+*    connectivity: k-connectivity, Menger's theorem.
+*    matchings: maximum-weight matching, applications,...
+
+We also give a first glimpse to complexity theory (NP-completeness).
+
+This course will be illustrated with many exercises to help the student
+to get familiar with graph concepts.
+
+### Prerequisites
+
+* none
+
+### Others
+
+
+* Number of lectures (in hrs): 12
+* Number of Exercise Classes (in hrs): 9
+* Number of Lab Classes (in hrs): 0
+
+
+### Bibliography
+
+* F. Havet, Combinatorial Optimization [Lecture Notes](http://www-sop.inria.fr/members/Frederic.Havet/Cours/ubinet.html)
