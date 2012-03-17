@@ -1,23 +1,54 @@
 ---
-title_page: 
-title: 
+title_page: Concurrency and parallelism
+title: Concurrency and parallelism
 in_menu: false
 ---
-## 
+## Concurrency and parallelism
 <hr />
 <br />
 
 ### Instructor(s)
 
-[]()
+[Fabrice Huet](http://www-sop.inria.fr/oasis/personnel/Fabrice.Huet/)
 
 ### Description
 
 * 2 ECTS
 
+This course is an introduction to parallel and distributed programming.
+We will study the parallelism from both a hardware and a software point
+of view to highlight the tight coupling between them. We will also focus
+on classical algorithms on a theoretical shared-memory model, the PRAM
+machine, which provides a good framework for reasoning about
+parallelism. Finally, we will focus on distributed memory systems
+(clusters) and how to write efficient algorithms. The main example for
+this part will be matrix product.
+
+After this course, the students will be able to design efficient
+parallel algorithm for symmetric multicore machines. They will also have
+a good understanding of the message passing programming model. A third
+of the course is dedicated to practical sessions where the students will
+write parallel and distributed applications using the OpenMP and MPI
+libraries.
+
+### Detailed topics :
+
+* High Performance Computing
+* Parallel Architectures, clusters
+* Parallel Random Access Machine (PRAM)
+* SCAN/Prefix
+* Classical Programming Models (Master/Slave, Map-Reduce...)
+* Sorting Algorithms
+* Distributed Programming, application to Matrix Product
+* Introduction to OpenMP and MPI
+
 ### Prerequisites
+
+- Good knowledge of the C programming Language (I/O, multi-dimensional arrays...)
+- Knowledge of classical algorithm, especially sorting and matrix multiplication
+- Knowledge of algorithmic complexity
 
 ### Others
 
-Number of lectures (in hrs): 
-Number of Exercise Classes (in hrs): 
+- Number of lectures (in hrs): 12
+- Number of Exercise Classes (in hrs): 9
