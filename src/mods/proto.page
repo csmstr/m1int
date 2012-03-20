@@ -1,9 +1,9 @@
 ---
-title_page: Protocols
-title: Protocols
+title_page: Communication protocol engineering
+title: Communication protocol engineering
 in_menu: false
 ---
-## Protocols
+## Communication protocol engineering
 <hr />
 <br />
 
@@ -26,7 +26,7 @@ sessions.
 ### Programme
 
 
-1. Introduction to Protocoles&  Protocol Engineering
+1. Introduction to Protocols &  Protocol Engineering
 2. Finite state machines
 3. Introduction to Petri Nets
 4. Acknowledgements
@@ -38,3 +38,9 @@ sessions.
 * Number of lectures (in hrs). 12
 * Number of Exercise Classes (in hrs). 6
 * Number of lab Classes (in hrs). 3
+
+
+### Bibliography
+
+* M. Popovic: Communication Protocol Engineering. Taylor and Francis, 2007
+* R. Lai, A. Jirachefpattana : Communication Protocol Specification and Verification. Kluwer, 1998
