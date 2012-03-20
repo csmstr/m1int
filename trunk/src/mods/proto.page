@@ -1,0 +1,40 @@
+---
+title_page: Protocols
+title: Protocols
+in_menu: false
+---
+## Protocols
+<hr />
+<br />
+
+### Instructor(s)
+
+[Olivier Dalle](http://www-sop.inria.fr/members/Olivier.Dalle/wiki/)
+
+### Description
+
+* 2 ECTS
+
+This course gives an introduction to protocol engineering. The aim is to
+give an overview of the classical idioms and pitfall commonly found when
+entering the difficult task of building new protocols. This course is
+also an opportunity to introduce a few popular formalisms for studying
+protocols, such as Petri Nets and LOTOS. Some related tools, such as CPNTools,
+will be experimented on a few use cases during the hands-on lab
+sessions.
+
+### Programme
+
+
+1. Introduction to Protocoles&  Protocol Engineering
+2. Finite state machines
+3. Introduction to Petri Nets
+4. Acknowledgements
+5. LOTOS
+6. Reasoning on Petri Nets
+
+### Others
+
+* Number of lectures (in hrs). 12
+* Number of Exercise Classes (in hrs). 6
+* Number of lab Classes (in hrs). 3
