@@ -1,0 +1,40 @@
+---
+title_page: Internet and Networks
+title: Internet and Networks
+in_menu: false
+---
+## Internet and Networks
+<hr />
+<br />
+
+### Instructor(s)
+
+[Chadi Barakat](http://planete.inria.fr/chadi/)
+
+### Description
+
+* 2 ECTS
+
+The Internet has grown from a research curiosity to something we all
+rely on daily. It has been able to withstand rapid growth fairly well
+and its core protocols have been robust enough to accommodate numerous
+applications that were unforeseen by the original Internet designers.
+This lecture will introduce the Internet architecture and the principles
+behind it and will highlight the main reasons for the success of the
+Internet. We will give a particular attention to the end-to-end, best
+effort and network of networks principles. We then explain the basic
+Internet protocols across the different layers with a particular focus
+on the MAC layer (both wired and wireless), the IP layer and the
+transport layer with all its protocols and the challenges it faces in
+terms of congestion, flow and error control. We also introduce the
+routing issue both intra and inter domains. Over the course we will
+point to challenges that has faced and still face the Internet and draw
+lines of evolution in an introductory way to the more advanced courses
+that will follow (Evolving Internet, Peer-to-Peer Networks, etc).
+
+### Prerequisites
+
+### Others
+
+Number of lectures (in hrs):
+Number of Exercise Classes (in hrs):
