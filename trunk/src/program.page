@@ -21,7 +21,7 @@ Note that some optional modules might not open or might be given in French only.
 | [Networking](mods/net1.html)| 2 ECTS|
 | [Computability and Logic](mods/complogic.html)| 6 ECTS|
 | [Innovation & Entrepreneurship (basics 1)](mods/innov.html)<span style="padding-right:15px" />| 2 ECTS|
-| [Language](mods/lang1.html)| 2 ECTS|
+| [Foreign Language](mods/lang1.html)| 2 ECTS|
 
 ### Optional modules
 
@@ -53,7 +53,7 @@ Note that some optional modules might not open or might be given in French only.
 
 | [Introduction to Research 2 (winter school)](mods/soon.html) | 2 ECTS|
 | [Cryptography and Security](mods/crypto.html) | 2 ECTS|
-| [Communication Protocol Engineering](mods/proto.html) | 2 ECTS|
+| [Protocol Engineering](mods/proto.html) | 2 ECTS|
 | [Geometric Algorithms](mods/algogeo.html) | 2 ECTS|
 | [Signal Processing](mods/signalpro.html) | 2 ECTS|
 | [Problem Solving](mods/probsolv.html) | 2 ECTS |
