@@ -1,6 +1,6 @@
 ---
-title_page: 
-title: 
+title_page: Introduction to Computability and Logic
+title: Introduction to Computability and Logic
 in_menu: false
 ---
 ## 
@@ -9,11 +9,18 @@ in_menu: false
 
 ### Instructor(s)
 
-[]()
+[Enrico Fomenti](http://deptinfo.unice.fr/~formenti/)
 
 ### Description
 
 * 2 ECTS
+
+The first part of the course will concern the basic notions in computability. Primitive recursive functions and partial recursive functions will be introduced and their properties illustrated by a number of exercises.
+Afterwards, a basic high level programming language will be analyzed in order to capture the essentials characteristics from the point of view of computability. This will naturally lead to the notion of acceptable
+programming system and to the famous Roger's theorem. Finally, some notions of decidability will be explained and linked to the other part of the course.
+
+The second part of the course is an introduction to mathematical logic and reasoning. It will start by introducing the propositional calculus, the notion of proofs, compactness and completeness.
+Afterwards, First Order (FO) logic, its syntax and semantics, will be illustrated. Some structures in FO logic will also be discussed. Incompleteness results on FO will conclude the course.
 
 ### Prerequisites
 
