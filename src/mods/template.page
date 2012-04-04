@@ -1,6 +1,6 @@
 ---
-title_page: 
-title: 
+title_page: XML and Web
+title: XML and Web
 in_menu: false
 ---
 ## 
@@ -9,15 +9,17 @@ in_menu: false
 
 ### Instructor(s)
 
-[]()
+Marc Gaetano
 
 ### Description
 
-* 2 ECTS
+* 3 ECTS
+
+In this course, students learn key XML technologies (XML, XPath, XSL, XML Schema, RNG, DTD, XQuery, DOM) as well as specific markup languages relevant to website development (XHTML, RSS, RDF, XSL-FO). In addition, the course covers topics such as XML and databases (native XML databases and RDBMS), XML programming APIs (DOM and SAX) or Apache server configuration.
 
 ### Prerequisites
 
 ### Others
 
-Number of lectures (in hrs): 
-Number of Exercise Classes (in hrs): 
+* Number of lectures (in hrs): 15h
+* Number of Labs Classes (in hrs): 15h
