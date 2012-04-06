@@ -3,11 +3,13 @@ title_page: Introduction to Research 1
 title: Introduction to Research 1
 in_menu: false
 ---
-## Introduction to Research 1 (2 ECTS)
+## Introduction to Research 1
 <hr />
 <br />
 
 ### Introduction to Robotics
+
+* 2 ECTS
 
 #### Instructor
 
@@ -19,4 +21,5 @@ in_menu: false
 * Real-time computing framework, sensors and embedded systems
 * Management of uncertainties in models and process
 * Sensors network
-* Practice: programming robot motions 
+* Practice: programming robot motions
+
