@@ -13,7 +13,7 @@ in_menu: false
 
 ### Description
 
-* 2 ECTS
+* 4 ECTS
 
 This course is an introduction to parallel and distributed programming.
 We will study the parallelism from both a hardware and a software point
@@ -50,5 +50,5 @@ libraries.
 
 ### Others
 
-- Number of lectures (in hrs): 12
-- Number of Exercise Classes (in hrs): 9
+- Number of lectures (in hrs): 9
+- Number of Exercise Classes (in hrs): 27

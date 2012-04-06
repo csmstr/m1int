@@ -13,7 +13,7 @@ in_menu: false
 
 ### Description
 
-* 2 ECTS
+* 6 ECTS
 
 The first part of the course will concern the basic notions in computability. Primitive recursive functions and partial recursive functions will be introduced and their properties illustrated by a number of exercises.
 Afterwards, a basic high level programming language will be analyzed in order to capture the essentials characteristics from the point of view of computability. This will naturally lead to the notion of acceptable
@@ -26,5 +26,5 @@ Afterwards, First Order (FO) logic, its syntax and semantics, will be illustrate
 
 ### Others
 
-* Number of lectures (in hrs):
-* Number of Exercise Classes (in hrs): 
+* Number of lectures (in hrs): 30
+* Number of Exercise Classes (in hrs): 30
