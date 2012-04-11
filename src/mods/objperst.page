@@ -9,15 +9,30 @@ in_menu: false
 
 ### Instructor(s)
 
-[]()
+TBA
 
 ### Description
 
-* 2 ECTS
+* 4 ECTS
+
+The aim of this course is to describe different solutions to make objects 
+persistent and to query stored data. Advantages and drawbacks of these 
+solutions will be studied according to different use cases.
+
+Detailed topics:
+* API for Java persistence to a relational DB (JDBC): basics and more advanced features
+* Object-relational mapping
+* Patterns for persistance
+* Mapping tools and frameworks
+* Other types of SGBDs (object-relational, pure object, XML)
 
 ### Prerequisites
 
+* Introduction to relational databases (SQL)
+* Good knowledge of OO programming (Java preferred)
+
 ### Others
 
-Number of lectures (in hrs): 
-Number of Exercise Classes (in hrs): 
+* Number of lectures (in hrs): 18
+* Number of Lab Classes (in hrs): 21
+
