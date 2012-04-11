@@ -22,7 +22,7 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 | [Networking](mods/net1.html)| 2 ECTS|
 | [Foreign Language](mods/lang1.html)| 2 ECTS|
 | [Computability and Logic](mods/complogic.html)| 6 ECTS|
-| [Innovation & Entrepreneurship](mods/innov.html)<span style="padding-right:15px" />| 2 ECTS|
+| [Innovation & Entrepreneurship](mods/innov.html)<span style="padding-right:80px" />| 2 ECTS|
 | [Models of Persistent Objects](mods/objperst.html)|4 ECTS|
 
 ### Optional modules
@@ -41,10 +41,10 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 
 #### 22 ECTS
 
-| <span style="padding-right:70px">[Temporal and Functional Analysis](mods/tempana.html) </span>| 3 ECTS |
+| <span style="padding-right:65px">[Temporal and Functional Analysis](mods/tempana.html) </span>| 3 ECTS |
 | [Verification and Computer Proof](mods/compproof.html) | 2 ECTS |
 | [XML and Web](mods/xmlweb.html) | 3 ECTS |
-| Scientific English Writing | 2 ECTS |
+| [Scientific English Writing](mods/lang2.html) | 2 ECTS |
 | Distributed Programming | 4 ECTS|
 | Complexity | 2 ECTS |
 | Personal Project | 6 ECTS |
@@ -52,14 +52,13 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 <!--| [Distributed Programming](mods/soon.html) | 4 ECTS|
 | [Complexity](mods/soon.html) | 2 ECTS |
 | [Personal Project](mods/soon.html) | 6 ECTS |
-| [Scientific English Writing](mods/soon.html) | 2 ECTS |
 -->
 
 ### Optional modules *(only some modules will be opened)*
 
 #### 8 ECTS to be chosen among
 
-| <span style="padding-right:20px">[Cryptography and Security](mods/crypto.html) | 2 ECTS|
+| <span style="padding-right:110px" />[Cryptography and Security](mods/crypto.html) | 2 ECTS|
 | [Protocol Engineering](mods/proto.html) | 2 ECTS|
 | [Geometric Algorithms](mods/algogeo.html) | 2 ECTS|
 | [Signal Processing](mods/signalpro.html) | 2 ECTS|
