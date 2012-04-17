@@ -1,0 +1,27 @@
+---
+title_page: Image Synthesis
+title: Image Synthesis
+in_menu: false
+---
+## 
+<hr />
+<br />
+
+### Instructor(s)
+
+[Adrien Bousseau](http://maverick.inria.fr/Members/Adrien.Bousseau/)
+
+### Description
+
+* 2 ECTS
+
+This course provides an introduction to Computer Graphics. The lectures will cover basic concepts of rendering (lighting, texturing, image-based rendering, non-photorealistic rendering) and illustrate these concepts with recent research papers from the field. The lab exercises will be the opportunity for students to get familiar with 3D programming (OpenGL, GPU shaders) and image editing.
+
+### Prerequisites
+
+Basics of programming (C++) and mathematics (matrices, geometry)
+
+### Others
+
+* Number of lectures (in hrs): 12h
+* Number of Labs Classes (in hrs): 9h

@@ -1,0 +1,47 @@
+---
+title_page: Distributed Programming
+title: Distributed Programming
+in_menu: false
+---
+## Distributed Programming
+<hr />
+<br />
+
+### Instructor(s)
+
+Francoise Baude,Fabien Hermenier, Fabrice Huet, Jean-Yves Tigli
+
+### Description
+
+* 4 ECTS
+
+*Objectives*
+
+This lecture aims to give students the ability to effectively program distributed applications to be run on distributed networked infrastructures. Different key paradigms will be presented: remote method invocation, grounded upon distributed objects, and service orientation, illustrated by the popular Web and REST services approaches, and also message-passing based approaches (point-to-point, group communications, and publish/subscribe) grounded upon messaging systems. The objective is to provide both conceptual and technological views of the area.
+
+*Programme*
+
+1. The distributed computing paradigm.
+	* Necessary reminders about some of the needed IP-based Communication protocols (UDP, TCP, HTTP, etc.) and supporting servers (eg. web servers)
+	* The concepts and semantics of remote procedure call, remote method invocation, and service invocation.
+	* Interoperability, strong or loose coupling of distributed entities.
+	* Distributed applications life-cycle: deployment, registration, discovery, usage
+2. Object Request Brokers : Short historical view about the CORBA platform. Extensive study of the Java RMI platform.
+3. From the Web to Web Services: Extensive study of XML based service invocation (WSDL/SOAP) illustrated by Java/Axis and .Net/WCF platforms. Introduction to REST approaches
+4. Messaging approaches: group communications (ordering and delivery semantics, message queues), publish-subscribe communication paradigms (Message topics). Illustration using Java Messaging System (JMS)
+5. A small tour on "what next" : asynchronous remote method invocations, distributed software components (eg. SCA), service bus, services orchestration and choregraphy, application servers, etc
+
+### Prerequisites
+
+* Undergraduate level in Object Oriented programming (Java, C#, C++ ...)
+* Undergraduate level in networking and concurrency control
+
+### Others
+
+* Number of lectures (in hrs): 18h
+* Number of Labs Classes (in hrs): 21h
+
+### Bibliography
+
+* Distributed Systems: Principles and Paradigms, 2nd edition, by Andrew S. Tanenbaum and Maarten van Steen book reference here . Essentially chapters 4, 10, 12 material will be addressed
+* Distributed Systems: Concepts and Design, Edition 4, by George Coulouris, Jean Dollimore and Tim Kindberg book reference here . Essentially chapters 4-5, 19-20 material will be addressed
