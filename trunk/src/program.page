@@ -46,13 +46,8 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 | [XML and Web](mods/xmlweb.html) | 3 ECTS |
 | [Scientific English Writing](mods/lang2.html) | 2 ECTS |
 | [Distributed Programming](mods/distprog.html) | 4 ECTS|
-| Complexity | 2 ECTS |
-| Personal Project | 6 ECTS |
-
-<!--
-| [Complexity](mods/soon.html) | 2 ECTS |
-| [Personal Project](mods/soon.html) | 6 ECTS |
--->
+| [Complexity](mods/complexity.html) | 2 ECTS |
+| [Personal Project](mods/perproj.html) | 6 ECTS |
 
 ### Optional modules *(only some modules will be opened)*
 
@@ -66,7 +61,5 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 | [Combinatorial Optimization](mods/combinopt.html) | 2 ECTS|
 | [Internet and Networks](mods/internet.html) | 2 ECTS|
 | [Image Synthesis](mods/imagesyn.html) | 2 ECTS |
-| Introduction to Research 2 (summer school) | 2 ECTS|
+| [Introduction to Research 2 (winter school)](mods/introres2.html) | 2 ECTS|
 
-<!--
-| [Introduction to Research 2 (winter school)](mods/soon.html) | 2 ECTS|-->
