@@ -22,8 +22,9 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 | [Networking](mods/net1.html)| 2 ECTS|
 | [Foreign Language](mods/lang1.html)| 2 ECTS|
 | [Computability and Logic](mods/complogic.html)| 6 ECTS|
+| [Verification and Computer Proof](mods/compproof.html) | 2 ECTS |
+| [Probability and Statistics](mods/prob.html) |2 ECTS |
 | [Innovation & Entrepreneurship](mods/innov.html)<span style="padding-right:80px" />| 2 ECTS|
-| [Models of Persistent Objects](mods/objperst.html)|4 ECTS|
 
 ### Optional modules
 
@@ -32,17 +33,15 @@ In addition, three courses Introduction to Research 1 & 2 and Scientific Writing
 | [Advanced Operating Systems](mods/advos.html) |2 ECTS|
 | [C++](mods/cplusplus.html) |2 ECTS|
 | [Introduction to Research 1 (winter school)](mods/introres1.html) |2 ECTS |
-| [Probability and Statistics](mods/prob.html) |2 ECTS |
 <br />
 
-## Semester 2, March-August *(30 ECTS)*
+## Semester 2, February-August *(30 ECTS)*
 
 ### Core modules
 
 #### 22 ECTS
 
 | <span style="padding-right:65px">[Temporal and Functional Analysis](mods/tempana.html) </span>| 3 ECTS |
-| [Verification and Computer Proof](mods/compproof.html) | 2 ECTS |
 | [XML and Web](mods/xmlweb.html) | 3 ECTS |
 | [Scientific English Writing](mods/lang2.html) | 2 ECTS |
 | [Distributed Programming](mods/distprog.html) | 4 ECTS|
