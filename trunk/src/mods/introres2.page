@@ -17,6 +17,8 @@ in_menu: false
 
 #### Course Contents
 
+The official website of this Winter School is available [here](http://www-sop.inria.fr/teams/geometrica/courses/cours-CGL.html)
+
 High dimensional geometric data are ubiquitous in science and engineering, and thus processing and analyzing them is a core task in these disciplines. Recently, a new geometric and topological approach to data analysis has emerged, extending the success story of geometric algorithms with guarantees to high-dimensions. This course is an introduction to the new field of Computational Geometry Learning providing mathematical and algorithmic foundations to geometric sampling and approximation.
 
 This course is related to a European project called CG-Learning (Computational Geometry Learning) and involving research groups at INRIA Saclay, INRIA Sophia Antipolis, ETH Zurich, and in the universities of Iena, Dortmund, Berlin, Gronningen, Athens and Tel Aviv.
