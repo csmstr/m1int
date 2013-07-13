@@ -1,0 +1,50 @@
+---
+title_page: Image Processing, Analysis and Synthesis
+title: 
+in_menu: false
+---
+## Image Processing, Analysis and Synthesis
+<hr />
+<br />
+
+### Organizer
+
+[Adrien Bousseau](http://www-sop.inria.fr/members/Adrien.Bousseau/)
+
+### Lecturers:
+Adrien Bousseau, George Drettakis, Frederic Precioso, Rachid Deriche, Théodore Papadopoulo
+
+### Description:
+
+ * 6 ECTS
+
+This course is divided in 4 parts that cover the basic concepts of computational imagery. Each part is composed of a set of lectures and lab exercises.
+
+ * Image Description and Matching (Frederic Precioso, 12h – 6h lecture and 6h lab): basic image descriptors (pixel, histogram, texture), bio-inspired descriptors (Gabor filters), image matching, image search with applications in medical and satellite imagery.
+ * Advanced Computational Image Processing (Rachid Deriche, 12h – 6h lecture and 6h exercises): linear & non-linear image filtering, edge detection and image features, snakes & geodesic active contours via level-set, image enhancements & restoration, segmentation & application to medical imaging.
+ * 3D Computer Vision (Théodore Papadopoulo, 12h): camera model, calibration, stereo vision, mosaicing, 3D reconstruction, elements of 3D shape representation.
+ * Computer Graphics (Adrien Bousseau, George Drettakis, 18h – 10h lecture and 8h lab): raytracing and rasterization, lighting, texturing, shadows, image-based rendering, OpenGL and GPU programming.
+
+### Grading
+
+The evaluation will be based on three grades:
+
+1. Short exams (10-20 mins) and lab exercises. Short exams in Advanced Computational Image Processing and in 3D Computer Vision, lab exercises in Computer Graphics and in Image Description and Matching.
+2. Project. One project in Advanced Computational Image Processing or Computer Graphics. Students with express their preferences over a list of projects and we will assign one project per student.
+3. Long exam. One long exam that covers 3D Computer Vision and Image Description and Matching.
+
+### Prerequisites
+
+Basics of programming (C++) and mathematics (linear algebra, geometry)
+
+### Bibliography:
+
+* Fundamentals of Computer Graphics, Peter Shirley, Michael Ashikhmin, Steve Marschner
+* Physically Based Rendering, from Theory to Implementation, Matt Pharr, Greg Humphreys
+* Image Processing and Analysis : Variational, PDE, Wavelets and Stochastic Methods, T. Chan & J. Shen - Siam 2005
+* Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations, G. Aubert and P. Kornprobst - Text in Applied Mathematics vol 147, 2002, Sringer Verlag
+* Geometric Partial Differential Equations and Image Processing, G. Sapiro - Cambridge University Press, January 2001
+* Level Set Methods and Fast Marching Methods Evolving Interfaces in Computational Geometry, Fluid Mechanics, Computer Vision, and Materials Science, J. Sethian - Cambridge University Press, 1999
+* 3D Computer Vision - A Geometric ViewPoint, O.D.Faugeras
+* Multiple View Geometry in Computer Vision, R. Hartley & A. Zisserman - Cambridge University Press, 2004
+* The Geometry of multiple images, O.D. Faugeras - Quang-Tuan Luong & T. Papadopoulo - The MIT Press - 2001 
