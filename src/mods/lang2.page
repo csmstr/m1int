@@ -7,11 +7,30 @@ in_menu: false
 <hr />
 <br />
 
+### Instructor(s)
+
+[Arnaud Legout](http://planete.inria.fr/alegout/)
+
 ### Description
 
 * 2 ECTS
 
-The aim of this lecture is to provide students with skills in the written of scientific document.
+Communicating efficiently is a central skill for any modern engineer
+and scientist. Indeed, not only it is fundamental to write clearly,
+but also to give good talks.
+
+In the first part of this course, we present how to give good talks
+from small talks to colleagues to a large audience of hundreds of
+attendees. We cover why it is important to give good talks, how to
+structure a talk, how to make good slides, how to present slides and
+speak in front of an audience, and how to avoid bad surprises.
+
+In the second part of this course, we present how to write technical
+and scientific documents from small white papers to international
+publications.
+
+This course will be a mix of examples, illustrations of mistakes and
+good practices, and hands-on sessions. 
 
 ### Others
 
