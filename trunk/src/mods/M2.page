@@ -1,0 +1,51 @@
+---
+title_page: Networking
+title: 
+in_menu: false
+---
+## Networking
+<hr />
+<br />
+
+### Organizer
+
+[Guillaume Urvoy-Keller](http://www.i3s.unice.fr/~urvoy/)
+
+### Lecturers:
+
+[Guillaume Urvoy-Keller](http://www.i3s.unice.fr/~urvoy/), [Dino Lopez](http://www.i3s.unice.fr/~lopezpac/), [Chadi Barakat](http://www-sop.inria.fr/members/Chadi.Barakat/), [Bruno Martin](http://deptinfo.unice.fr/~bmartin/)
+
+### Description:
+
+ * 6 ECTS
+
+This course comprises three parts. It starts with a general introduction to the networking field, whose objective is to pave the way for the next two parts that will be taught in parallel: (i) an in-depth study of the algorithms involved in key functions of the Internet; and (ii) an introduction to cryptography and network security.
+We describe the objective of each part in more details below.
+
+####Introduction to networking
+
+This first part provides a broad overview of computer networking, from the application to the link layer, in a top down approach manner. It covers basic concepts in computer networking as well as the prominent Internet protocols.
+This course will be illustrated with exercises and labs that will help the students to understand (i) how some key Internet applications/services are working and (ii) the basics of client/server communication programming. Advanced concepts, e.g., IPv6, will be introduced at the end of the course.
+
+####Algorithms for networking
+
+The second part will revisit the Internet architecture and focus on the principles behind the scene to highlight the main reasons for the success of the Internet. We will give a particular attention to the end-to-end, best effort and network of networks principles. We then explain the basic Internet protocols across the different layers with a particular focus on the MAC layer (both wired and wireless), the IP layer and the transport layer with all its protocols and the challenges it faces in terms of congestion, flow and error control. We also introduce the routing issue in both intra and inter domains. Over the course, we will point to challenges faced by the Internet and draw lines of evolution: Evolving Internet, Peer-to-Peer Networks, etc.
+
+####Cryptography and Security
+
+The third part of the course is an introduction to cryptography and network security in which the main two aspects of the field are presented: the attacker part and the defender part. We will introduce the two paradigms of cryptography (secret key and public key) and their use for designing network security protocols.
+The program will start with a general introduction to security and threats in the Internet, including a taxonomy of malware and the modus operandi of hackers. We will devote the second part of this course to the public and secret key cryptography and its application to network security: authentication, exchange of shared secret and confidentiality.
+
+### Grading
+
+Each part of the course comprises one written exam and  graded labs/homeworks that count for 30% of the grade of the corresponding part.
+
+The final grade is the average of the grades obtained in the three parts. 
+
+### Bibliography
+
+* CNP3 : Computer Networks: Principles, Protocols and Practice -  [http://inl.info.ucl.ac.be/CNP3](http://inl.info.ucl.ac.be/CNP3)
+* K. Ross et J. Kurose Computer Networking, A Top-Down approach [Amazon link](http://www.amazon.com/s/ref=ntt_athr_dp_sr_2?_encoding=UTF8&field-author=Keith%20W.%20Ross&search-alias=books&sort=relevancerank)
+* D. Salomon, Foundations of Computer Security, Springer, 2006
+* W. Stallings, Cryptography and network security, Prentice Hall, 2006
+
