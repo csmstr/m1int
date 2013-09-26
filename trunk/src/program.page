@@ -4,63 +4,25 @@ title: Program
 in_menu: true
 sort_info: 20
 ---
-# Program 2012-2013
+# Program 2013-2014
 (Slight changes will be done in 2013-2014. The new program will be soon available)
 
-The Master 1 year consists of two semesters and allows you to earn 60 ECTS (European Credits Transfer System).
- 
-Each semester consists of core and optional modules. Each student must complete a Personal Project in one of the partner institutions ([I3S](http://www.i3s.unice.fr/) or [INRIA](http://www.inria.fr/)) for a total of 6 ECTS credits (equivalent to around 120 hrs fo work). 
+The Master 1 year consists of two semesters and allows you to earn 60 ECTS (European Credits Transfer System). Each semester provides 30 ECTS.
 
-In addition, three courses Introduction to Research 1 & 2 and Scientific Writing aim at giving students a first experience in Research.
+Each student must complete a Personal Project in one of the partner institutions ([I3S](http://www.i3s.unice.fr/) or [INRIA](http://www.inria.fr/)) for a total of 6 ECTS credits (equivalent to around 120 hrs of work). 
 
-## Semester 1, October-February *(30 ECTS)*
+### Semester 1, October-February *(30 ECTS)*
 
-### Core modules
+| [Communication & Management](mods/M1.html)|6 ECTS|
+| [Networking](mods/M2.html)| 6 ECTS|
+| [Calculability & Logic](mods/M3.html)| 6 ECTS|
+| [Software Engineering](mods/M4.html)| 6 ECTS|
+| [Winter School](mods/M5.html)| 6 ECTS|
 
-#### 24 ECTS
+### Semester 2, February-June *(30 ECTS)*
 
-| [Concurrency and Parallelism](mods/concpar.html)|4 ECTS|
-| [Software Engineering](mods/softeng.html)| 4 ECTS|
-| [Networking](mods/net1.html)| 2 ECTS|
-| [Foreign Language](mods/lang1.html)| 2 ECTS|
-| [Computability and Logic](mods/complogic.html)| 6 ECTS|
-| [Verification and Computer Proof](mods/compproof.html) | 2 ECTS |
-| [Probability and Statistics](mods/prob.html) |2 ECTS |
-| [Innovation & Entrepreneurship](mods/innov.html)<span style="padding-right:80px" />| 2 ECTS|
-
-### Optional modules
-
-#### 6 ECTS to be chosen among
-
-| [Advanced Operating Systems](mods/advos.html) |2 ECTS|
-| [C++](mods/cplusplus.html) |2 ECTS|
-| [Introduction to Research 1 (winter school)](mods/introres1.html) |2 ECTS |
-| [Introduction to Research 2 (winter school)](mods/introres2.html) | 2 ECTS|
-
-<br />
-
-## Semester 2, February-June *(30 ECTS)*
-
-### Core modules
-
-#### 22 ECTS
-
-| <span style="padding-right:65px">[Temporal and Functional Analysis](mods/tempana.html) </span>| 3 ECTS |
-| [XML and Web](mods/xmlweb.html) | 3 ECTS |
-| [Distributed Programming](mods/distprog.html) | 4 ECTS|
-| [Complexity](mods/complexity.html) | 2 ECTS |
-| [Personal Project](mods/perproj.html) | 6 ECTS |
-| [Internet and Networks](mods/internet.html) | 2 ECTS|
-| [Image Synthesis](mods/imagesyn.html) | 2 ECTS |
-
-### Optional modules *(only some modules will be opened)*
-
-#### 8 ECTS to be chosen among
-
-| [Scientific English Writing](mods/lang2.html) | 2 ECTS |
-| <span style="padding-right:110px">[Cryptography and Security](mods/crypto.html) </span>| 2 ECTS|
-| [Protocol Engineering](mods/proto.html) | 2 ECTS|
-| [Geometric Algorithms](mods/algogeo.html) | 2 ECTS|
-| [Signal Processing](mods/signalpro.html) | 2 ECTS|
-| [Problem Solving](mods/probsolv.html) | 2 ECTS |
-| [Combinatorial Optimization](mods/combinopt.html) | 2 ECTS|
+| <span style="padding-right:65px">[Parallelism](mods/M6.html) </span>| 6 ECTS |
+| [Mobile Development & Embedded](mods/M7.html) | 6 ECTS |
+| [Resolution Methods](mods/M8.html) | 6 ECTS|
+| [Image](mods/M9.html) | 6 ECTS |
+| [Personal Project](mods/M10.html) | 6 ECTS |
