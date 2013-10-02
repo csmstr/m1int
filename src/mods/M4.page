@@ -1,0 +1,36 @@
+---
+title_page: Software Engineering
+title: Software Engineering
+in_menu: false
+---
+## Software Engineering
+<hr />
+<br />
+
+### Organizer
+
+[Philippe Collet](http://www.i3s.unice.fr/~collet/)
+
+### Lecturers:
+
+Philippe Collet, Jacques Farré
+
+### Description:
+
+ * 6 ECTS
+
+The aim of this course is to acquire good skills in OO software engineering with Java and advanced OO programming in C++.
+
+For the Java based part, the course covers topics on mechanisms of introspection, reflexivity and dynamic loading, and issues related to
+the different OO mechanisms (inheritance, composition, constrained genericity). The course then introduces micro-architectures, with the
+description and use of several design patterns.
+
+For the C++ part, the course places particular emphasis on the differences in programming style compared to Java, as well as on the
+Standard Template Library.
+
+### Grading
+
+
+### Bibliography
+
+

@@ -1,0 +1,40 @@
+---
+title_page: Parallelism
+title: Parallelism
+in_menu: false
+---
+## Parallelism
+<hr />
+<br />
+
+### Organizer
+
+[Fabrice Huet](http://www-sop.inria.fr/oasis/personnel/Fabrice.Huet/)
+
+### Lecturers:
+
+Andrea Tettamanzi (lectures), Jean-Vivien Millo (class assignments and lab work sessions)
+
+### Description:
+
+ * 6 ECTS
+
+he overall aim of this course is to provide the necessary knowledge in the core concepts and techniques for concurrent, parallel, and distributed programming.
+
+Concurrent programming has to do with designing and implementing software systems composed by multiple processes or threads, usually all running concurrently on the same physical machine. Parallel programming deals with the design and implementation of algorithms which will be executed on (massively) parallel machines, consisting of multiple processing units which may communicate via some dedicated high-speed bus or network or through shared memory. Distributed programming is about designing software systems made up of components that are physically located on distinct machines, connected through a network (usually the Internet), often in geographically distinct locations.
+
+What is common among these three programming contexts is the need to abandon the simplistic view of a program as a deterministic and linearly executed sequence of instructions and to come to grips with such problems as synchronization, latency, indeterministic execution order, consistency, scalability, speed-up, etc. Moreover, a principled approach to programming in these contexts calls for appropriate theoretical models that can capture the above issues and enable the software designer to reason meaningfully about them. Finally, some of the most popular languages, libraries, and framework for programming in these three scenarios will be presented and used.
+
+### Grading
+
+The final mark is computed as a weighted average of three individual marks:
+
+* a graded exercise (weight: 30%);
+* a written final test (weight: 30%);
+* a project (weight: 40%).
+
+### Bibliography
+
+* Mordechai Ben-Ari. Principles of Concurrent and Distributed Programming (2nd Edition). Addison-Wesley, 2006.
+* Andrew S. Tannenbaum and Maarten van Steen. Distributed Systems: Principles and Paradigms (2nd Edition). Prentice Hall, 2007.
+* Ananth Grama, George Karypis, Vipin Kumar, and Anshul Gupta. Introduction to Parallel Computing (2nd Edition). Addison-Wesley, 2003.

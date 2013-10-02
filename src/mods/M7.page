@@ -35,7 +35,13 @@ This course is devoted to master students willing to understand the kernel of an
 
 ### Grading
 
+* [30%] Persistence and Transformation: Lab, 6h in class, 3h at home
+* [20%] Mobile computing: Lab, 3h in class, 3h at home
+* [50%] Advanced OS: 2 sessions on machine (automatic answering system). 60 minutes for each session. Each student must bring his laptop.
 
 ### Bibliography
 
-
+* Model-Driven Software Engineering in Practice, by Marco Brambilla, Jordi Cabot, Manuel Wimmer (Morgan & Claypool, 2012)
+* Beginning Android, by Mark Murphy (APress, Springer)
+* Modern Operating Systems, by A. Tanenbaum (Prentice-Hall)
+* Understanding the Linux Kernel, by Bovet&Cesati, 3rd edition (O'Reilly)
