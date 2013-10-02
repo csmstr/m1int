@@ -1,0 +1,15 @@
+---
+title_page: Alumni
+title: Alumni
+in_menu: false
+sort_info: 70
+---
+# Alumni
+
+## 2012 - 2013
+
+This is the first class of the 1st Year International Master in Computer Science, which was composed of 12 students from different countries: Lebanon, Ethiopia, Albania, Kosovo, India, Nigeria, Italy and Iraq. Here are some students wishing to share with you who they are, where do they come from and what they will do next. Enjoy it!
+
+| ![Seida]({relocatable: 2012-2013/seida.jpg}){:.picstudalumni} | {include_file: {filename: src/alumni/2012-2013/seida.txt}} |
+| ![Kiran]({relocatable: 2012-2013/kiran.jpg}){:.picstudalumni} | {include_file: {filename: src/alumni/2012-2013/kiran.txt}} |
+| ![Myriana]({relocatable: 2012-2013/myriana.jpg}){:.picstudalumni} | {include_file: {filename: src/alumni/2012-2013/myriana.txt}} |
