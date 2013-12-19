@@ -20,7 +20,7 @@ Adrien Bousseau, George Drettakis, Frederic Precioso, Rachid Deriche, Théodore 
 
 This course is divided in 4 parts that cover the basic concepts of computational imagery. Each part is composed of a set of lectures and lab exercises.
 
- * Image Description and Matching (Frederic Precioso, 12h – 6h lecture and 6h lab): basic image descriptors (pixel, histogram, texture), bio-inspired descriptors (Gabor filters), image matching, image search with applications in medical and satellite imagery.
+ * Machine Learning for Computer Vision (Frederic Precioso, 12h – 6h lecture and 6h lab): basic image transformations (histogram equalization, mean-shift filtering and tracking), classifiers and boosting, face detection, neural networks.
  * Advanced Computational Image Processing (Rachid Deriche, 12h – 6h lecture and 6h exercises): linear & non-linear image filtering, edge detection and image features, snakes & geodesic active contours via level-set, image enhancements & restoration, segmentation & application to medical imaging.
  * 3D Computer Vision (Théodore Papadopoulo, 12h): camera model, calibration, stereo vision, mosaicing, 3D reconstruction, elements of 3D shape representation.
  * Computer Graphics (Adrien Bousseau, George Drettakis, 18h – 10h lecture and 8h lab): raytracing and rasterization, lighting, texturing, shadows, image-based rendering, OpenGL and GPU programming.
