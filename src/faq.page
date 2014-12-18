@@ -4,6 +4,10 @@ title: FAQ
 in_menu: true
 sort_info: 60
 ---
+<center>
+Last update: {date: {format: '%d-%m-%Y'}}
+</center>
+
 # FAQ for students admitted to the international track of the Master 1 in Computer Science
 
 ## 1.  Insurances
@@ -16,7 +20,7 @@ Students under 28 are required to take out French student medical insurance, ref
 LMDE is the public organization that manages student health insurance (it is a branch of "Sécurité sociale".
 A student can and should also take out a complementary health insurance policy which may reimbourse up to 100% of expenses incurred. More information [here](http://www.lmde.com/special-inscriptions-2013-2014/etudiants-internationaux.html#c6226).
 
-Students who are 28 years old or over cannot subscribe a student social insurance along with the registration to the university. We advise you to subscribe a "Cover for foreign students" with LMDE for 12 months. All information and subscription procedure at:
+Students who are 28 years old or over cannot subscribe a student social insurance along with the registration to the university. You must subscribe a "Cover for foreign students" with LMDE for 12 months. All information and subscription procedure at:
 http://www.lmde.com/etudiants-etrangers/couverture-sante-lmde.html#c6913
 You can also choose a private health insurance such as [here](http://www.assistance-etudiants.com/en/page/abc).
 
@@ -44,17 +48,18 @@ For those of you who are granted a scolarship, be aware that you will not cash t
 
 ### In order to open a bank account in France.
 
-At your arrival, you will need to open a bank account, immediately after getting out of the airport if you plan to get the insurance package mentioned above. The International Master 1 in Comuter Science of the University Nice Sophia has an agreement with the Société Générale, whose offices are in Sophia Antipolis. It will provide you personal banking services including credit card, cheque book, money transfer and more. (You can, of course, go to another bank if you prefer.)
+At your arrival, you will need to open a bank account, immediately after getting out of the airport if you plan to get the insurance package mentioned above. The International Master 1 in Comuter Science of the University Nice Sophia has an agreement with the LCL bank, whose offices are in Sophia Antipolis. It will provide you personal banking services including credit card, cheque book, housing insurance and more. (You can, of course, go to another bank if you prefer.)
 
-For Société Générale, prior to your arrival, you need to schedule an appointment with them, before checking in at the residence to get your room (because the housing insurnance is requested to sign up the renting contract). To do so, send them an email mentioning:
+For the LCL bank, prior to your arrival, you need to schedule an appointment with them, before checking in at the residence to get your room (because the housing insurnance is requested to sign up the renting contract). To do so, send them an email mentioning:
 
-*	that you are student of the International Master in Computer Science (responsible is Mrs Sassatelli and Mr. Lopez),
+*	that you are student of the International Master in Computer Science (responsible is Mr. Lopez),
 *	you want to open a bank account and subscribe a liability+housing insurance for 12 months,
-*	the student residence you will stay (and address),
+*	the student residence you will stay and address (i.e. the CIV),
 *	a scanned copy of your passport (or write down in the email the corresponding fields: first and last names, citizenship, address, birth date, etc.)
 
-*	In Sophia Antipolis (Société Générale): info [here](https://fc1.1bis.com/societegenerale3/?id=SGEN3000300508).<br />
-	Check the opening hours and days. Send the email for the appointment to Mrs Desfarges (Sandrine.Desfarges--at--socgen.com) and Mr Boyer (Stephane.Boyer--at--socgen.com). In case you need the phone numbers: 04.92.96.54.49 or 04.92.96.54.46 or 04.92.96.54.44 or 04.92.96.54.43.
+*	In Sophia Antipolis (LCL): info [here](http://agence.lcl.fr/98972-lcl-valbonne-sophia-antip).<br />
+	Check the opening hours and days. Send the email for the appointment to Mrs Tripodi (leslie.tripodi--at--lcl.com) and Mrs Oberle (nathalie.oberle--at--lcl.com).<br />
+	Address: ESPACE BEETHOVEN, 1208 ROUTE DES LUCIOLES, 06560 VALBONNE, France <br /> Copy/paste the following GPS coordinates in Google Maps to see where the bank is located 43.617604,7.05845
 
 You will need to bring to the bank:
 
@@ -88,10 +93,7 @@ French Ambassy,
 school)
 * Copy of your birth document (french translated if possible)
 
-You will need also the “Attestation provisoire d'inscription” which will be useful for your first procedures (including to
-open your bank account). You can get these documents from Mrs Lilia Jemmali (phone:04 92 96 51 42,
-email: jemmali@polytech.unice.fr office 438 at Polytech’Nice Sophia, les Templier, 930 Route des Colles -
-BP 145 06903 Sophia Antipolis Cedex).
+You will need also the “Attestation provisoire d'inscription” which will be useful for your first procedures (including to open your bank account).
 
 ###French Classes
 
@@ -103,9 +105,7 @@ Try to learn basics of French (advised).
 
 ###Could anybody tell me how can I get to my residency when I arrive at Nice airport?
 
-Everything is explained here : http://www-sop.inria.fr/members/Joanna.Moulierac/travelinformation.php
-
-In this [page](http://www.cg06.fr/fr/servir-les-habitants/deplacements/transport-collectifs-tam/lignes-et-horaires/lignes-et-horaires/) you have all the timetables for the TAM buses (which are the regional ones).
+In this [page](https://www.cg06.fr/vous-deplacer-en-bus/lignes-et-horaires-3029.html) you have all the timetables for the TAM buses (which are the regional ones).
 
 If you're coming on a working day, the 230 will take you from the airport to the door of the residence in less than one hour. Take into account that some of them pick passengers at terminal 1 and others at "airport promenade"; this stop is after crossing the Promenade des Anglais (the big avenue going along the airport) using a tunnel next to terminal 1. [Here](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=101882952717510868710.000001134d95272f6f6eb&ll=43.666344,7.211146&spn=0,359.998258&t=h&z=20&layer=c&cbll=43.666368,7.211347&panoid=0n9QQSq9WPHD_uKDN_w2Vg&cbp=12,278.97,,0,10.61) you have a google map with all the stops and a close up on the airport promenade stop.
 
@@ -135,17 +135,13 @@ Nice (bus cg06 230), Antibes (bus envibus 1, 100), Cannes (bus cg06 200, 630), M
 
 ##5. Housing
 
-For 2013-2014 scholar year, the Master can only help you for the reservation of a room at the CIV student residence. [CIV http://www.civfrance.com/centre/actualites)](http://www.civfrance.com/centre/actualites) is located in 190 Rue Frédéric Mistral, Valbonne, France.
+The Master is currently working for an agreement with the CIV student residence. [CIV http://www.civfrance.com/centre/actualites)](http://www.civfrance.com/centre/actualites) is located in 190 Rue Frédéric Mistral, Valbonne, France. Accepted students, please email to m1int-appl@i3s.unice.fr for more information. 
 
 The price of the room at CIV is around 430 euros/month. It includes half board (breakfast and dinner) during the working days and full board during the weekend (breakfast, lunch and dinner). Moreover, the first time, you will pay around 860 euros, which will include your first rental payment + your rental guarantee.
 
 Please, be aware that we don't know how other university residences work, so we will not help you for any other housing solution you may choose.
 
-<!--Otherwise, you can find another solution, with for example the private residence Oxford, Thesa, Saint Exupery or other: http://www.sophia.ensmp.fr/cadre/logements.html . However, please note that we will not help you for any other housing solution you may choose.
-
-There is also possibilities with colocation : www.colocation.fr/ or www.appartager.com/
-
-Or private flats here : www.seloger.fr-->
+To reach the CIV, from Nice, you can take bus no. 230 and get off at the terminus (bus stop "Gare routière de Valbonne Sophia Antipolis"). Here is maps showing [how to reach CIV from the Gare routière](https://mapsengine.google.com/map/edit?mid=zi451EuKs9DQ.kVLGop_7OfB8).
 
 ### Is there a possibility for financial housing support?
 
@@ -172,9 +168,17 @@ This is mostly considered as a research master.
 
 Teachers will indicate to you at your arrival how to get the material for the lectures. For some lectures, bibliographical references or prerequisites are already indicated in the "Program" section of this website.
 
-### When the studies will begin?
+### When the studies will begin? {#startingdate}
 
-On Wednesday October 2nd 2013.
+Studies will start with a Welcome Session on October 2nd 2014 at 10:00 AM in the Campus Lucioles of Polytech Nice Sophia, classroom 362. [Here you will find the location of the Campus Lucioles](http://www.polytech.unice.fr/fr/geolocalisation/page130.html).
+
+### Laptops
+
+This Master does not provide any laptop to the accepted students.
+
+### Winter Holidays
+
+Winter Holidays cover the last two weeks of the year. For instance, for 2014 year, winter holidays go from December 22nd, 2014, up to January 2nd, 2015.
 
 ## 8. Administrative issues
 
@@ -188,11 +192,13 @@ To go to the OFII building (for medical checking) you have to get off at bus sto
 
 ### Tuition Fees
 
-The French educational system allows all students to follow their studies with a low cost financial commitment. The cost of this program is based on regular French university fees. Tuition fees are approximately 490 Euros for the full year and cover course expenses and medical insurance for students below 28. Students above 28 must obtain a private health insurance.
+The French educational system allows all students to follow their studies with a low cost financial commitment. The cost of this program is based on regular French university fees.
+
+Tuition fees are approximately 290 Euros for the whole  year and cover course expenses only. For students under 28, additionally, you have to take the  medical insurance around 210€. Students above 28 must obtain a private health insurance (around 300€).
 
 ### What is the procedure for the student registration?
 
-During the first week of courses, a half day will be reserved by the university to register all the accepted students of the first year International Master in Computer Science.
+The registration will be done in Campus Valrose of the University Nice Sophia Antipolis at Nice in October 2nd, 2014 at 1:45 PM. [Here is a map showing the main building of the Campus Valrose](https://maps.google.fr/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=100254490391508051720.00043c870c9f6f2736a65&dg=feature). Registrations take usually place at the "Petit Château" building and a detailed information about the registration office will be provided by the university in the main entrance ("Entrée Parc Valrose" in the map).
 
 <!--    You will do your registration online: http://inscription.unice.fr/ as soon as the web site is available when you arrive.
 
@@ -216,13 +222,12 @@ During the first week of courses, a half day will be reserved by the university 
 
 Visa holders permitted to stay in France without residence card ('carte de séjour') - www.ofii.fr
 
-When arriving in France, you must perform some immigration paperwork so as to be a legal alien for one year. This paperwork must be performed as soon as the year starts (on Sept. 30), and at most within two months after your arrival.
+When arriving in France, you must perform some immigration paperwork so as to be a legal alien for one year. This paperwork must be performed as soon as the year starts, and at most within two months after your arrival.
 Below is described all the procedure. You can find all information at this [link](http://www.ofii.fr/etudier_en_france_50/visa_long_sejour_titre_de_sejour_pour_les_etudiants_954.html) and [this one](http://www.ofii.fr/tests_197/quelle_est_la_procedure_1003.html)
 
-Please be aware that you can be helped in completing the whole immigration procedure by Monsieur BEKELE Amha (06 25 09 05 63) at Polytech (“permanence Titre de Séjour”), room 304. The opening hours are:
-Mo 1pm-2pm, Tu 1pm-2pm, We 10.30am-1.30pm, Th 1pm-3.30pm, Fr closed
+Please be aware that you can be helped in completing the whole immigration procedure at Polytech (“permanence Titre de Séjour”). More information will be provided during the Welcome Meeting. Please read the ["When the studies will begin?"](#startingdate) section for more information about the date of the Welcome Meeting session.
 
-(at Polytech, you may have access to free copying service)
+At Polytech, you may have access to free copying service
 
 ### The procedure (translation of the above website):
 
@@ -257,7 +262,9 @@ As soon as you get final response from OFII to be a legal alien for one year, th
 
 http://www.caf.fr/ then select « Etudiants »
 
-### Additional benefits from Conseil Général des Alpes-Maritmes (CG06)
+Second link to ["CAF pour étudiants"](http://www.caf.fr/aides-et-services/les-services-en-ligne/acceder-a-une-demande-en-ligne)
+
+<!-- ### Additional benefits from Conseil Général des Alpes-Maritmes (CG06)
 
 You are also eligible to a number of other supports:
 
@@ -272,3 +279,4 @@ CG06 can pay half the year price or at most 100€ for additional private insura
 
 * [Eligibility conditions](http://www.cg06.fr/cms/cg06/upload/servir-les-habitants/fr/files/jeuneenforme_info.pdf)
 * [Application form](http://www.cg06.fr/cms/cg06/upload/servir-les-habitants/fr/files/jeuneenforme_formulaire.pdf)
+-->
