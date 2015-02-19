@@ -1,0 +1,37 @@
+---
+title_page: Resolution Methods
+title: Resolution Methods
+in_menu: false
+---
+## Resolution Methods
+<hr />
+<br />
+
+### Organizer
+
+[Frédéric Havet](http://www-sop.inria.fr/members/Frederic.Havet/)
+
+### Lecturers:
+
+Frédéric Havet, Jean-Charles Régin, Guillaume Urvoy-Keller
+
+### Description:
+
+ * 6 ECTS
+
+The objective of this course is to show how to design and analyze algorithms for solving exactly complex problems. The course is divided into three parts which are mainly independent, yet complementary. 
+
+In the first part, some famous greedy algorithms will be introduced or recalled in order to show their limits, notably that, in general, they do not compute the optimal solution. Then, the exhaustive enumeration will be introduced as a generalization of greedy algorithms. The students will discover the power of these algorithms but also their main drawback: their exponential complexity. At last, some techniques will be introduced to reduce the search space that need to be traversed for solving a problem. 
+
+In the second part, some classical combinatorial techniques to tackle some optimization problems will be presented. First, some elementary techniques to supply lower and upper bounds on the solution will be introduced in order to measure the quality of the solutions returned by algorithms. Then standard techniques to design polynomial-time approximate (or sometimes exact) algorithms are introduced. Finally, some examples of branching and dynamic programming algorithms are given to illustrate how to design exact algorithms running in a moderately exponential time. 
+
+The third part aims at introducing the basics of probability and statistical theory with illustrations in the fields of scientific analysis, and computer system performance evaluation.It will start with introducing/refreshing the notions of probability and probability distributions, random variables, random processes and limit theorems. Basic notions of statistics will also be covered including data-set analysis, comparison and determining which distribution fits a specific sample. Finally, the design of experimental simulations and statistical quality control will be studied. 
+
+Overall, the course will be taught with a balance between theoretical fundamentals and applicative illustration and will contain several exercise sessions and labs. 
+
+### Grading
+
+* 3 exams
+* Labs and Exercises
+
+### Bibliography

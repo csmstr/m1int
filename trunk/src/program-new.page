@@ -1,10 +1,10 @@
 ---
 title_page: Program
 title: Program
-in_menu: true
+in_menu: false
 sort_info: 20
 ---
-# Program 2014-2015
+# Program
 
 (Due to logistical reasons, a reordering of the modules will be done for 2015-2016. The new program will be soon available)
 
@@ -12,18 +12,18 @@ The Master 1 year consists of two semesters and allows you to earn 60 ECTS (Euro
 
 Each student must complete a Personal Project in one of the partner institutions ([I3S](http://www.i3s.unice.fr/) or [INRIA](http://www.inria.fr/)) for a total of 6 ECTS credits (equivalent to around 120 hrs of work). 
 
-### Semester 1, October-February *(30 ECTS)*
+### Semester 1, September-February *(30 ECTS)*
 
 | [Communication & Management](mods/M1.html)|6 ECTS|
 | [Networking](mods/M2.html)| 6 ECTS|
 | [Calculability & Logic](mods/M3.html)| 6 ECTS|
-| [Software Engineering](mods/M4.html)| 6 ECTS|
-| [Winter School](mods/M5.html)| 6 ECTS|
+| [Resolution Methods](mods/M8.html) | 6 ECTS|
+| [Parallelism](mods/M6.html) | 6 ECTS |
 
 ### Semester 2, February-June *(30 ECTS)*
 
-| <span style="padding-right:65px">[Parallelism](mods/M6.html) </span>| 6 ECTS |
+| [Winter School](mods/M5.html)| 6 ECTS|
 | [Mobile & Embedded Systems](mods/M7.html) | 6 ECTS |
-| [Resolution Methods](mods/M8.html) | 6 ECTS|
-| [Image](mods/M9.html) | 6 ECTS |
+| <span style="padding-right:165px"> [Image](mods/M9.html) </span>| 6 ECTS |
+| [Software Engineering](mods/M4.html)| 6 ECTS|
 | [Personal Project](mods/M10.html) | 6 ECTS |
