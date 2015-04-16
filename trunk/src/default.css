@@ -53,12 +53,12 @@ margin-bottom:5px;
 }
 
 #avmenu li a, #avmenu li span {
-font-weight:bold;height:20px;text-decoration:none;color:#ffffff;display:block;padding:6px 0 0 10px;background:#f4f4f4 url(images/menubg.gif) bottom left repeat-x;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;
+font-weight:bold;height:20px;text-decoration:none;color:#ffffff;display:block;padding:6px 0 0 10px;background:#005288 url(images/menubg.gif) bottom left repeat-x;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;
 
 }
 
 #avmenu li a:hover, #avmenu li a.current, #avmenu li.webgen-menu-item-selected a, #avmenu li.webgen-menu-item-selected span {
-background:#eaeaea url(images/menubg2.gif) bottom left repeat-x;color:#ffffff;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;
+background:#004069 url(images/menubg2.gif) bottom left repeat-x;color:#ffffff;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;
 }
 
 #avmenu ul ul {
