@@ -1,0 +1,32 @@
+---
+title_page: ICT Labs Data Science 1st Year Master Program
+title: EIT DSC Program
+in_menu: true
+sort_info: 21
+--- 
+# ICT Labs Data Science 1st Year Master Program
+
+The Master 1 year consists of two semesters and allows you to earn 60 ECTS (European Credits Transfer System). Each semester provides 30 ECTS.
+
+Each student must accomplish the requested Innovation and Entrepreneurship courses and school that the ICT Labs label mandates.
+
+To this aim, the courses listed below, and the mandatory summer school that the [Master School Office](http://www.masterschool.eitictlabs.eu/) organizes centrally will allow you to earn the 24 ECTS (out of the 60 ECTS) that you need.
+
+### Semester 1, September-February *(30 ECTS)*
+
+| [Communication - I&E - BDL preparation](mods/IandEstuffs.html)|10 ECTS|
+| [Data Transmission - networking](mods/M2.html)|6 ECTS|
+| [Resolution Methods](mods/M8.html)| 6 ECTS|
+| [Data mining (in English)](http://users.polytech.unice.fr/~pfz/COURS_SSHOW/finalWord.html#45)| 3 ECTS |
+| [Software architecture for the Cloud and NoSQL Databases (in English)](http://users.polytech.unice.fr/~pfz/COURS_SSHOW/finalWord.html#87) | 3 ECTS |
+| [Optional courses](mods/OptionsDSC.html)| 2 (or more) ECTS |
+
+### Semester 2, February-June *(30 ECTS)*
+
+| [Parallelism and Distribution](mods/M6.html) | 6 ECTS |
+| [Visualization and Image processing](mods/M9.html) | 6 ECTS |
+| [Data valorization (in English)](http://users.polytech.unice.fr/~pfz/COURS_SSHOW/finalWord.html#127) | 3 ECTS |
+| <span style="padding-right:250px">[BDL execution](mods/IandEstuffs.html)</span>|5 ECTS|
+| [Optional courses](mods/OptionsDSC.html)| 1 (or more) ECTS|
+| [I&E course with Legal and Societal Aspects](mods/IandEstuffs.html) | 5 ECTS |
+| [ICT Labs Summer School](mods/IandEstuffs.html) | 4 ECTS |
